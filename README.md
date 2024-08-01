@@ -13,6 +13,7 @@ This repository consist of all the problems i solved in leetcode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0283-move-zeroes](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,8 @@ This repository consist of all the problems i solved in leetcode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
