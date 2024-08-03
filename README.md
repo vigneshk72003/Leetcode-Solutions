@@ -34,4 +34,16 @@ This repository consist of all the problems i solved in leetcode.
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0461-hamming-distance) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
