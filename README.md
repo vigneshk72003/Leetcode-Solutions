@@ -30,4 +30,8 @@ This repository consist of all the problems i solved in leetcode.
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/vigneshk72003/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
